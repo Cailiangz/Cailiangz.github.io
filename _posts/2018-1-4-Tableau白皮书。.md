@@ -2,7 +2,7 @@
 layout: article
 title: "Tableau白皮书"
 date: 2018-1-4 20:07:50 +0800
-categories: /posts/infovis/ 
+categories: infovis1 
 image:
   teaser: tabl.jpg
   feature: tabl.jpg
