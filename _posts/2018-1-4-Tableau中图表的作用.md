@@ -2,7 +2,7 @@
 layout: article
 title: "Tableau中图表的作用"
 date: 2018-1-4 20:07:50 +0800
-categories: /posts/infovis/ 
+categories: infovis1
 image:
   teaser: 甘特图.jpg
   feature: 甘特图.jpg
